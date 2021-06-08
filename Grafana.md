@@ -97,7 +97,7 @@ Grafanayı kullanarak bu verileri görselleştireceğiz.
 
 Dosya içeriğini değiştirelim.\
 **sudo nano /etc/telegraf/telegraf.conf**\
-[agent] in altında hostname='server-hostname' satırında server-hostname yerine sizin serverinizin hostname ini yazın.\
+[agent] in altında hostname='' satırında sizin serverinizin hostname ini yazın.\
 [[outputs.influxdb]] nin altındaki \
 urls=["http://influxdb-ip:8086"] içeriğini http://ipadresiniz:8086 ile değiştirin.\
 database="database-name" içeriğini InfluxDB database isminiz ile değiştirin.\
