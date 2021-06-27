@@ -9,6 +9,7 @@ Zabbix MySQL, PostgreSQL, SQLite, Oracle veya IBM DB2 kullanarak veriyi saklar.
 3-**apt update**
 
 4-**apt install zabbix-server-mysql zabbix-frontend-php zabbix-apache-conf zabbix-agent**
+
 4.1-**sudo apt-get install mariadb-server**\
 5-**mysql -uroot -p**\
 Şifrenizi girin
