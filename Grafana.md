@@ -71,6 +71,9 @@ Farklı veri kaynaklarından aldığı verileri dashboard halinde gösterir.
 
 
 1-**curl https://packages.grafana.com/gpg.key | sudo apt-key add -**\
+
+sudo apt-get install software-properties-common
+
 2-**sudo add-apt-repository "deb https://packages.grafana.com/oss/deb stable main"**
 
 3-**sudo apt-get update**\
