@@ -150,7 +150,7 @@ Conditions kısmı aslında en önemli kısım. Burada hangi koşul altında ala
 
 Zabbixte trigger dediğimiz şey aslında seçtiğimiz hosttan elde ettiğimiz itemleri mantıksal ifade olarak değerlendirir ve bize ona göre bilgi verir.
 
-Grafanada ise alertler vardır. Alert ise seçilen panel üzerinde belli şartlar sağlanırsa oluşacak bir uyarıdır. Zabbixte bu kontroller hostlar üzerinde oluşturulurken Grafanada paneller üzerinde oluşturulur.
+Grafanada ise alertler vardır. Alert seçilen panel üzerinde belli şartlar sağlanırsa oluşacak bir uyarıdır. Zabbixte bu kontroller hostlar üzerinde oluşturulurken Grafanada paneller üzerinde oluşturulur.
 
 Zabbixte trigger şartı için olan logical expression tek bir yerde oluşturulurken Grafanada Query ve Alert sekmesi ayrıdır yani alacağımız bilgiyi farklı sekmede bu bilginin hangi şartları sağlayacağı da farklı bir sekmededir.
 
