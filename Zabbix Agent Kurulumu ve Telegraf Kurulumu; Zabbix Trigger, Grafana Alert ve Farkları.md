@@ -152,7 +152,7 @@ Zabbixte trigger dediğimiz şey aslında seçtiğimiz hosttan elde ettiğimiz i
 
 Grafanada ise alertler vardır. Alert seçilen panel üzerinde belli şartlar sağlanırsa oluşacak bir uyarıdır. Zabbixte bu kontroller hostlar üzerinde oluşturulurken Grafanada paneller üzerinde oluşturulur.
 
-Zabbixte trigger şartı için olan logical expression tek bir yerde oluşturulurken Grafanada Query ve Alert sekmesi ayrıdır yani alacağımız bilgiyi farklı sekmede bu bilginin hangi şartları sağlayacağı da farklı bir sekmededir.
+Zabbixte trigger şartı için olan logical expression tek bir yerde oluşturulurken Grafanada Query ve Alert sekmesi ayrıdır yani alacağımız bilgi ve bu bilginin hangi şartları sağlayacağı farklı sekmelerdedir.
 
 
 
