@@ -1,8 +1,8 @@
 # How to Create Domain on Samba Server
 
-Go to 'Sambahvl' plugin from left menu and
+Go to **Sambahvl** extension from left menu and
 
-<img src="./Assets/etkialanı.png">
+<img src="./Assets/13.png">
 
-Click 'Etki Alanı Oluştur' button. You have successfully created domain.
+Click **Create Domain** button. You have successfully created domain.
 
