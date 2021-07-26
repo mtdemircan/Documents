@@ -8,7 +8,7 @@ Then click **Add** **Server** button.
 
 <img src="./Assets/2.png">
 
-Type ip address of your server that you want to add and type 22 to port section then click **Check Access **button.
+Type ip address of your server that you want to add and type 22 to port section then click **Check Access** button.
 
 <img src="./Assets/3.png">
 

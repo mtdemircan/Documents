@@ -22,7 +22,7 @@ Choose a name for your server and pick your city. Click **Confirm Settings**. In
 
 At the end, click **Add Server**. Thats it! You have added your server to liman.
 
-# How to Install Sambahvl Plugin
+# How to Install Sambahvl Plugin with Upload
 
 At first, download sambahvl zip file: https://github.com/zekiahmetbayar/liman-sambahvl/archive/refs/heads/main.zip
 
@@ -35,6 +35,22 @@ Go to **Extensions** tab.
 Click **Upload** button and choose the zip file that you have downloaded.
 
 You have loaded sambahvl plugin to liman.
+
+# How to Install Sambahvl Plugin from Extension Market
+
+From the homepage of liman go to Extension Market.
+
+<img src="./Assets/17.png">
+
+Find SabmaHVL and click Upload. 
+
+<img src="./Assets/18.png">
+
+Confirm installation.
+
+<img src="./Assets/19.png">
+
+
 
 # How to Activate Sambahvl Extension for Samba Server
 
