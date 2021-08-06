@@ -16,7 +16,7 @@ Yetkililerin bu ID yi kullanarak oluşturdukları lisansa eriştiğinizde Sistem
 
 Liman arayüzünde **Eklentileri Yönet** kısmına girin. 
 
-<img src="./assets/1.png">Eklentiler tabına girdikten sonra **Yükle** butonuna basın ve Domain eklenti dosyasını seçin.
+<img src="./assets/1k.png">Eklentiler tabına girdikten sonra **Yükle** butonuna basın ve Domain eklenti dosyasını seçin.
 
 <img src="./assets/2.png"> 
 
@@ -52,7 +52,7 @@ Liman arayüzünden **Kasa** ya gidin.
 
 ## DNS Ayarları 
 
-<img src="./assets/11.png">
+<img src="./assets/11k.png">
 
 Sistem Ayarları -> DNS Ayarları tabından Öncelikli DNS Sunucusu kısmına Domain eklentisinin olduğu sunucu ip adresini girin. Kaydedin.
 
