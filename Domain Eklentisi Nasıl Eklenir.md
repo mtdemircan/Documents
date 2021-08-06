@@ -32,15 +32,15 @@ Sistem ayarları -> Sertifikalar tabına girin.
 
 <img src="./assets/4.png">
 
-<img src="./assets/5.png"> **Sertifika Ekle** ye basın.
+ **Sertifika Ekle** ye basın.
 
-<img src="./assets/6.png">
+<img src="./assets/567.png">
 
 **Hostname** kısmına sunucu ip adresinizi **port** kısmına da 636 yazın ve **Al** deyin. 
 
 <img src="./assets/hostname.png">
 
-<img src="./assets/7.png">Sertifikayı onaylayın.
+Sertifikayı onaylayın.
 
 ## Sunucu Anahtarı Güncelleme
 
