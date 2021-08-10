@@ -16,6 +16,14 @@ logları görmek için:
 
 `tail -f /var/log/dsdb_audit.log`
 
+Kullanıcı eklendiğinde oluşan log:
+
+<img src ="./Assets/24.png">
+
+Kullanıcı silindiğinde oluşan log:<img src ="./Assets/25.png">
+
+
+
 
 
 
